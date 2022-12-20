@@ -10,17 +10,17 @@ def run_eda_app() :
     df= pd.read_csv('data/youtube_trend.csv')
 
     column_list = df.columns
-    if st.checkbox('데이터프레임 3개만보기') : 
+    if st.checkbox('전체적인 데이터의 모습(좌우로 이동가능)',value=True) : 
         st.dataframe(df.head(3))
-        st.text('168554 rows × 16 columns')
-    if st.checkbox('카테고리별 총개수') :
+        st.text('168554 행 × 16 columns')
+    if st.checkbox('어떤 카테고리들이 있는지 (+총개수)', value=True) :
         st.dataframe(df['categori_name'].value_counts().to_frame())  
-    if st.checkbox('특정컬럼만 확인(10개 제한)'):
+    if st.checkbox('특정컬럼만 확인(10개 제한)',value=True):
         selected_column = st.multiselect("",column_list)
         if len(selected_column) >= 1 :
             st.dataframe(df.loc[:, selected_column].head(10))
     
-    if st.checkbox("컬럼의정보를 알려줘"):
+    if st.checkbox("컬럼의 상세정보",value=True):
         category_list = ['title : 제목',
  'publishedAt : 올린날짜',
  'channelTitle : 채널이름',
@@ -43,7 +43,7 @@ def run_eda_app() :
     
   
 
-    if st.checkbox('상관관계분석') :
+    if st.checkbox('상관관계분석(1에가까울수록 비례관계)',value=True) :
         column_list2 = ['likes','dislikes','comment_count','tag_cnt','time_only','title_len','week_day','view_count']
         selected_list = st.multiselect('좋아요,싫어요,댓글,태그수,올린시간,제목의길이,올린요일,조회수 순서로 세팅되어있습니다.', column_list2,default=column_list2)
         st.text('필요없는 컬럼은 제거하세요')
@@ -57,7 +57,7 @@ def run_eda_app() :
                         vmin= -1, vmax=1, linewidths=0.5)
             st.pyplot(fig2)
 
-            st.info("상관분석결과 : 조회수와 아무런 관련이 없다는것을 알수있다. ")
+            st.info("상관분석결과 : 좋아요,싫어요,댓글등 을 제외한 항목들은 조회수와 아무런 관련이 없다는것을 알수있다. ")
             st.info("특이한것은 태그의 갯수가 많을수록 타이틀도 길게짓는 경향이 있는것으로 발견되었다.")
             
 
