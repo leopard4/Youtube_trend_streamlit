@@ -1,38 +1,45 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Youtube_trend_streamlit </h1>
+<h3 align="center">유튜브 태그와 조회수와의 관계 분석 웹대시보드
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leopard4&label=Profile%20views&color=0e75b6&style=flat" alt="leopard4" /> </p></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leopa&label=Profile%20views&color=0e75b6&style=flat" alt="leopa" /> </p>
 
-- 🔭 I’m currently working on [test1](test2)
+<h5 align="left">사용한 언어 & 툴:</h5>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> </p>
 
-- 🌱 I’m currently learning **7**
 
-- 👯 I’m looking to collaborate on [tes3](tes4)
 
-- 🤝 I’m looking for help with [5](6)
 
-- 👨‍💻 All of my projects are available at [10](10)
+<h3> - :raised_back_of_hand: 1.프로젝트의 목적 및 용도 </h3>
+이 프로젝트는 데이터 교육 수료를 위해 작성된
+유튜브 태그와 타이틀의 상관관계를 웹 대시보드로 표현한것입니다.
 
-- 📝 I regularly write articles on [11](11)
+이 대시보드로 자주 사용되는 트렌디한 태그나 카테고리를 알수있어서
+초보 크리에이터들의 태그 선정에 도움을 줄 수 있습니다
 
-- 💬 Ask me about **8**
+이 프로젝트는 AWS EC2 서버에 GITHUB ACTION을 이용하여 CI/CD 방식으로 배포하였으므로 버전 관리가 용이하여
+사용자의 환경에 맞게 빠른 변화가 가능합니다.
 
-- 📫 How to reach me **9**
+<h3> - :hammer: 2.프로젝트를 시작하는 방법 <h3> 
+링크를 클릭하거나 주소를 입력하는것으로 간단하게 사용할 수 있습니다.
+<h3> - :closed_lock_with_key: 3.저작권, 라이선스 정보 <h3> 
 
-- 📄 Know about my experiences [12](12)
+### - :smile: 4.외부 리소스 정보
+데이터의 출처 : [kaggle Youtube trend](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=KR_youtube_trending_data.csv)[^1]
 
-- ⚡ Fun fact **123**
+[👨‍💻 완성된 사이트로 이동합니다.](http://3.38.165.131:8502/)[^1]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddd" height="30" width="40" /></a>
-<a href="https://instagram.com/zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zz" height="30" width="40" /></a>
-<a href="https://www.behance.net/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="as" height="30" width="40" /></a>
-</p>
+[^1]: 사이트로 이동합니다.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<!-- 이부분은 주석이라 표시되지 않습니다. -->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cofe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cofe" /></a><a href="https://ko-fi.com/cof2"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cof2" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leopa&show_icons=true&locale=en&layout=compact" alt="leopa" /></p>
+
+
+
+
+
+
+
+
+
