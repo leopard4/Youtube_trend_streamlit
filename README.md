@@ -10,7 +10,7 @@
 
 
 
-<h3> - :raised_back_of_hand: 1.프로젝트의 목적 및 용도 </h3>
+<h3> - :closed_book: 1.프로젝트의 목적 및 용도 </h3>
 이 프로젝트는 데이터 교육 수료를 위해 작성된
 유튜브 태그와 타이틀의 상관관계를 웹 대시보드로 표현한것입니다.
 
@@ -20,13 +20,13 @@
 이 프로젝트는 AWS EC2 서버에 GITHUB ACTION을 이용하여 CI/CD 방식으로 배포하였으므로 버전 관리가 용이하여
 사용자의 환경에 맞게 빠른 변화가 가능합니다.
 
-<h3> - :hammer: 2.프로젝트를 시작하는 방법 <h3> 
+<h3> - :closed_book: 2.프로젝트를 시작하는 방법 <h3> 
   
 ###### 링크를 클릭하거나 주소를 입력하는것으로 간단하게 사용할 수 있습니다.
   
-<h3> - :closed_lock_with_key: 3.저작권, 라이선스 정보 <h3> 
+<h3> - :closed_book: 3.저작권, 라이선스 정보 <h3> 
 
-### - :smile: 4.외부 리소스 정보
+### - :closed_book: 4.외부 리소스 정보
 데이터의 출처 : [kaggle Youtube trend](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=KR_youtube_trending_data.csv)[^1]
 
 [👨‍💻 완성된 사이트로 이동합니다.](http://3.38.165.131:8502/)[^1]
