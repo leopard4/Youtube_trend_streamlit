@@ -19,5 +19,5 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           script: |
-            cd  Youtube_trend_streamlit
+            cd Youtube_trend_streamlit
             git pull
